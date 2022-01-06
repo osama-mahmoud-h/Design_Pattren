@@ -1,11 +1,11 @@
 # Design_Pattren
 ## 1. Creational Design Pattrens
-   ### &nbsp; 1. Singilton
-   ### 1. Builder
-   ### 1. Factory 
-  &nbsp; #### 1. Simple Factory Method
-   #### 2. Factory Method
-   #### 3. Abstract Factory
+   ### &nbsp; &nbsp; 1. Singilton
+   ### &nbsp; &nbsp; 1. Builder
+   ### &nbsp; &nbsp; 1. Factory 
+   #### &nbsp; &nbsp; 1. Simple Factory Method
+   #### &nbsp; &nbsp; 2. Factory Method
+   #### &nbsp; &nbsp; 3. Abstract Factory
 ## 2. Structural Design Pattren
 ## 3. Behavioural Desgin Pattren
 
