@@ -4,7 +4,7 @@
 ### &nbsp; &nbsp; 1. Singilton
 ### &nbsp; &nbsp; 1. Builder
 ### &nbsp; &nbsp; 1. Factory 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Simple Factory Method
+#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; nbsp; 1. Simple Factory Method
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. Factory Method
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3. Abstract Factory
 
