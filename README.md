@@ -9,7 +9,8 @@
 #### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 3. Abstract Factory
 
 ## 2. Structural Design Pattren
-
+### &nbsp; &nbsp; 1.Decorator
+### &nbsp; &nbsp; 2.Adapter
 ## 3. Behavioural Desgin Pattren
 
 
